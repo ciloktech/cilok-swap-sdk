@@ -3,3 +3,4 @@ export { FACTORY_ADDRESS_MAP, INIT_CODE_HASH, MINIMUM_LIQUIDITY } from './consta
 export * from './errors'
 export * from './entities'
 export * from './router'
+export * from './mei'
